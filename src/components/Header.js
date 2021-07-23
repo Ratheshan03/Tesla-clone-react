@@ -12,7 +12,7 @@ function Header() {
 
   return (
     <Container>
-      <a>
+      <a href="https://www.tesla.com/">
         <img
           className="tesla-logo"
           src="/images/logo.svg"
